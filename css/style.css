@@ -465,6 +465,7 @@ body {
   margin-left: 8px;
 }
 
+/* Right-sidebar */
 .right-sidebar {
   width: 384px;
 }
@@ -490,6 +491,7 @@ body {
   font-size: 14px;
   line-height: 22px;
   color: #0050B3;
+  margin: 0;
 }
 
 .stories-buttons {
@@ -686,6 +688,7 @@ body {
   text-decoration: none;
   margin-top: 16px;
 }
+
 .page-item-image {
   flex-shrink: 0;
   width: 48px;
@@ -794,8 +797,6 @@ body {
   line-height: 22px;
   color: #8C8C8C;
 }
-
-
 
 @media(max-width: 1200px) {
   .header-block {
