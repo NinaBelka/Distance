@@ -249,6 +249,14 @@ body {
   margin-left: 8px;
 }
 
+.nav-link .see-more-text {
+  color: #1890FF;
+  margin-left: 8px;
+}
+.nav-link .dropdown {
+  margin: 4px;
+}
+
 .nav-title {
   font-weight: 600;
   font-size: 12px;
